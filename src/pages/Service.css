@@ -1,0 +1,13 @@
+.section-underline {
+  width: 480px;        /* même largeur que Home */
+  height: 4px;
+  background-color: #0d6efd;
+  margin: 8px auto;
+}
+
+.section-title {
+  margin: 8px;
+}
+p{
+    padding: 4px;
+}
